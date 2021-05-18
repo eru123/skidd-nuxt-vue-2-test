@@ -1,0 +1,23 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.3",
+        "@nuxtjs/axios": "^5.13.3",
+        "@nuxtjs/eslint-config": "^6.0.0",
+        "@nuxtjs/eslint-module": "^3.0.2",
+        "@nuxtjs/firebase": "^7.5.0",
+        "@nuxtjs/pwa": "^3.3.5",
+        "@nuxtjs/tailwindcss": "^4.1.2",
+        "@nuxtjs/vuetify": "^1.11.3",
+        "express": "^4.17.1",
+        "nuxt": "^2.15.6",
+        "postcss": "^8.2.15",
+        "vue-clipboard2": "^0.3.1"
+    }
+}
