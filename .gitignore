@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignored by by https://github.com/eru123
+serviceAccount.json
