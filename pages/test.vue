@@ -9,13 +9,7 @@
 </template>
 <script>
 export default {
-  layout: "default",
-  name: "PageIndex",
-  head: () => ({
-    titleTemplate: "%s",
-  }),
-  created() {
-    this.$store.dispatch("app/loaded");
-  },
-};
+  layout: 'default',
+  name: "PageTest",
+}
 </script>
